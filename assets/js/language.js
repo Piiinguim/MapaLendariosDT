@@ -9,7 +9,7 @@ var Language = {
 
   init: function () {
     'use strict';
-    let langs = ['pt_BR'];
+    let langs = ['en'];
 
     if (Settings.language !== 'en') {
       langs.push(Settings.language);
