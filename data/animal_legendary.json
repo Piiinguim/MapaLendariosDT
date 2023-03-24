@@ -272,26 +272,6 @@
     "set_value": 480
   },
   {
-    "text": "mp_animal_buck_legendary_01",
-    "x": -44.6875,
-    "y": 124.0156,
-    "radius": 1,
-    "locations": [
-      {"text": "buck_location_tier_i_0", "x": -44.6875, "y": 136.4609375}
-    ],
-    "animal_name": "Mud Runner Buck",
-    "spawn_time": [[]],
-    "preferred_weather": "any",
-    "trader_materials": "Feno",
-    "trader_pelt_materials": 20,
-    "trapper_value": 27,
-    "trapper_pelt_value": 8,
-    "trapper_part_value": "Pescoço",
-    "sample_value": 0,
-    "animal_category": "patterned",
-    "set_value": 480
-  },
-  {
     "text": "mp_animal_buck_legendary_02",
     "x": -86.6563,
     "y": 76.0938,
@@ -638,6 +618,26 @@
     "spawn_time": [[]],
     "preferred_weather": "any",
     "trader_materials": "milho",
+    "trader_pelt_materials": 16.25,
+    "trapper_value": 4,
+    "trapper_pelt_value": 4,
+    "trapper_part_value": "Coração",
+    "sample_value": 12,
+    "animal_category": "light",
+    "set_value": 500
+  },
+  {
+    "text": "mp_animal_ram_legendary_01",
+    "x": -44.625,
+    "y": 136.4063,
+    "radius": 1,
+    "locations": [
+      {"text": "ram_location_tier_i_0", "x": -44.625, "y": 136.4063}
+    ],
+    "animal_name": "Gabbro Horn Ram",
+    "spawn_time": [[]],
+    "preferred_weather": "any",
+    "trader_materials": "feno",
     "trader_pelt_materials": 16.25,
     "trapper_value": 4,
     "trapper_pelt_value": 4,
