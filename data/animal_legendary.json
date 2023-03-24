@@ -230,7 +230,7 @@
     "text": "mp_animal_boar_legendary_02",
     "x": -86.6328,
     "y": 130.2813,
-    "radius": 9.5,
+    "radius": 1,
     "locations": [
       {"text": "boar_trail_01", "x": -86.6328, "y": 130.2813}
     ],
