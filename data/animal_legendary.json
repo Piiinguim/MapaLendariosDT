@@ -19,26 +19,6 @@
     "animal_category": "dark",
     "set_value": 680
   },
-{
-    "text": "mp_animal_alligator_legendary_01",
-    "x": -74.1451,
-    "y": 139.9936,
-    "radius": 1,
-    "locations": [
-      {"text": "alligator_kamassa_01", "x": -74.1451, "y": 139.9936}
-    ],
-    "animal_name": "Teca Gator",
-    "spawn_time": [[]],
-    "preferred_weather": "any",
-    "trader_materials": "Garrafa de Leite",
-    "trader_pelt_materials": 18.13,
-    "trapper_value": null,
-    "trapper_pelt_value": 1,
-    "trapper_part_value": "Embaixo da Axila",
-    "sample_value": 12,
-    "animal_category": "dark",
-    "set_value": 680
-  },
   {
     "text": "mp_animal_alligator_legendary_02",
     "x": -72.6641,
@@ -278,6 +258,26 @@
     "radius": 1,
     "locations": [
       {"text": "buck_location_tier_i_0", "x": -50.3672, "y": 124.0156}
+    ],
+    "animal_name": "Mud Runner Buck",
+    "spawn_time": [[]],
+    "preferred_weather": "any",
+    "trader_materials": "Feno",
+    "trader_pelt_materials": 20,
+    "trapper_value": 27,
+    "trapper_pelt_value": 8,
+    "trapper_part_value": "Pescoço",
+    "sample_value": 0,
+    "animal_category": "patterned",
+    "set_value": 480
+  },
+  {
+    "text": "mp_animal_buck_legendary_01",
+    "x": -44.6875,
+    "y": 124.0156,
+    "radius": 1,
+    "locations": [
+      {"text": "buck_location_tier_i_0", "x": -44.6875, "y": 136.4609375}
     ],
     "animal_name": "Mud Runner Buck",
     "spawn_time": [[]],
