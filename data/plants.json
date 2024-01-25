@@ -3,7 +3,6 @@
     "color": "green",
     "key": "alaskan_ginseng",
     "locations": [
-      {"x": -48.2218, "y": 111.1274}
       
     ]
   },
@@ -11,7 +10,6 @@
     "color": "green",
     "key": "american_ginseng",
     "locations": [
-      
       
     ]
   },
@@ -33,7 +31,6 @@
     "color": "green",
     "key": "black_currant",
     "locations": [
-      
      
     ]
   },
@@ -41,7 +38,6 @@
     "color": "green",
     "key": "burdock_root",
     "locations": [
-      
      
     ]
   },
@@ -49,7 +45,6 @@
     "color": "green",
     "key": "chanterelles",
     "locations": [
-      
      
     ]
   },
@@ -57,7 +52,6 @@
     "color": "green",
     "key": "common_bulrush",
     "locations": [
-      
      
     ]
   },
@@ -66,14 +60,12 @@
     "key": "creeping_thyme",
     "locations": [
       
-      
     ]
   },
   {
     "color": "green",
     "key": "desert_sage",
     "locations": [
-      
      
     ]
   },
@@ -81,7 +73,6 @@
     "color": "green",
     "key": "english_mace",
     "locations": [
-      
      
     ]
   },
@@ -89,7 +80,6 @@
     "color": "green",
     "key": "evergreen_huckleberry",
     "locations": [
-     
       
     ]
   },
@@ -97,7 +87,6 @@
     "color": "green",
     "key": "golden_currant",
     "locations": [
-      
       
     ]
   },
@@ -113,22 +102,19 @@
     "key": "indian_tobacco",
     "locations": [
       
-      
     ]
   },
   {
     "color": "green",
     "key": "milkweed",
     "locations": [
-      
-      
+          
     ]
   },
   {
     "color": "green",
     "key": "oleander_sage",
     "locations": [
-      
       
     ]
   },
@@ -137,7 +123,6 @@
     "key": "oregano",
     "locations": [
       
-      
     ]
   },
   {
@@ -145,14 +130,12 @@
     "key": "parasol_mushroom",
     "locations": [
       
-      
     ]
   },
   {
     "color": "green",
     "key": "prairie_poppy",
     "locations": [
-      
       
     ]
   },
@@ -165,14 +148,12 @@
       {"x": -29.7188, "y": 155.7734},
       {"x": -27.5391, "y": 153.6484}
       
-      
     ]
   },
   {
     "color": "green",
     "key": "red_raspberry",
     "locations": [
-      
       
     ]
   },
@@ -181,14 +162,12 @@
     "key": "red_sage",
     "locations": [
       
-      
     ]
   },
   {
     "color": "green",
     "key": "vanilla_flower",
     "locations": [
-      
       
     ]
   },
