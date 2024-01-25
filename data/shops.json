@@ -77,8 +77,7 @@
     "color": "black",
     "key": "photo_studio",
     "locations": [
-      {"text": "shop_blk_photo_studio", "x": -84.8898, "y": 98.6651},
-      {"text": "shop_sdn_photo_studio", "x": -80.9913, "y": 153.701}
+      
     ]
   },
   {
