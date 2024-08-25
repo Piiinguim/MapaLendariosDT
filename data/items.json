@@ -69,7 +69,8 @@
     "disabled": false,
     "key": "hideouts",
     "locations": [
-      {"text": "gaptooth_breach", "x": -103.5469, "y": 31.7031, "time": [0, 0] }
+      {"text": "gaptooth_breach", "x": -103.5469, "y": 31.7031, "time": [0, 0] },
+      {"text": "fort_riggs", "x": -70.1563, "y": 150.0313, "time": [0, 0] }
     ]
   },
   {
